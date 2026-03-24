@@ -1,5 +1,5 @@
 # Masterprompt — NMG 25267 | Routekaart Inburgering Nijmegen
-**Versie:** v0.1  
+**Versie:** v0.2  
 **Datum:** 24 maart 2026  
 **Beheerder:** Sicko van Dijk, Studio Claro
 
@@ -31,38 +31,38 @@ GNM 25268: Stap-voor-stap boekje (jongeren) + gespreksinstrument (professionals)
 
 | Naam | Organisatie | Rol | Achtergrond |
 |------|-------------|-----|-------------|
-| Hannah van Amstel | Gemeente Nijmegen | Senior Communicatieadviseur | Marketingcommunicatie, PR; lid Adformatie en Logeion |
+| Martine Boot | Gemeente Nijmegen | Senior Communicatieadviseur — primair communicatiecontact GNM 25267 | MSc Communicatiewetenschappen Radboud; 12+ jaar Dar NV; overheidscontext Nijmegen |
 | Renske Kuin | Gemeente Nijmegen | Beleidsadviseur Asiel en Integratie | Bestuurskunde Radboud Universiteit; taalvrijwilliger Humanitas |
 | Angelique Cras | Gemeente Nijmegen | Kwaliteitsmedewerker Wet inburgering 2021 | Bestuursacademie; coaching sociaal domein; eerder gemeente Beuningen |
+| Jasper Varwijk | Gemeente Nijmegen | Beleidsadviseur Asiel en Integratie | Collega van Renske Kuin; was afwezig bij gesprek 12 januari 2026 |
 | Judith Claassens | WerkBedrijf Rijk van Nijmegen | Projectmanager Jonge Nieuwkomers | Projectmanagement sociaal domein; faciliterend-coachende stijl |
 | Jolijn Ceelen | Studio Stof | Ontwerper | Samenwerkingspartner Studio Claro voor vormgeving |
 | Sicko van Dijk | Studio Claro | Conceptontwikkelaar | Beheerder van dit bestand |
-| Jasper Vorweg | Onbekend | Onbekend | Was afwezig bij gesprek 12 januari 2026 |
+| Hannah van Amstel | Gemeente Nijmegen | Senior Communicatieadviseur — tijdelijk niet actief op project | Marketingcommunicatie, PR; lid Adformatie en Logeion; Erkend Communicator |
 
 **Hiërarchie en rolbegrenzing:**  
-Bij GNM 25267 is de gemeente Nijmegen opdrachtgever; Hannah en Renske zijn de primaire contactpersonen, Angelique is betrokken vanuit kwaliteitszorg. Bij GNM 25268 is Judith Claassens de opdrachtgever; budget komt van regiogemeenten, niet van gemeente Nijmegen. Jolijn verzorgt de vormgeving; conceptkeuzes liggen bij Studio Claro.
+Bij GNM 25267 is de gemeente Nijmegen opdrachtgever. Martine Boot is het primaire communicatiecontact, Renske Kuin is inhoudelijk eigenaar, Angelique Cras is betrokken vanuit kwaliteitszorg. Bij GNM 25268 is Judith Claassens de opdrachtgever; budget komt van regiogemeenten, niet van gemeente Nijmegen. Jolijn verzorgt de vormgeving; conceptkeuzes liggen bij Studio Claro.
+
+Zie `05_profiel_projectmedewerkers.md` voor uitgebreide profielen van alle betrokkenen.
 
 ---
 
 ## 3. Stand van zaken
 
-**Huidige fase:** Conceptontwikkeling en offertering
-
-**Wat loopt er nu?**  
-Voor GNM 25267 (Routekaart Inburgering) is het concept gereed en wacht de offerte op input van Jolijn. Voor GNM 25268 (Reisschema Jonge Nieuwkomers) moet de offerte worden herzien omdat de scope groter is dan oorspronkelijk geraamd. Het gespreksverslag van 12 januari 2026 is opgesteld en verstuurd ter validatie.
+**Huidige fase:** Conceptontwikkeling — eerste werksessie met opdrachtgever gepland op 30 maart 2026 (week 14)
 
 **Wat is recent afgerond?**  
 Kick-off gesprek gemeente Nijmegen (12 januari 2026) — beide trajecten besproken  
 Gespreksverslag opgesteld en verstuurd (14 januari 2026)  
-Profielinformatie vier projectmedewerkers verzameld  
+Offerte GNM 25267 opgesteld en goedgekeurd (referentie GNM 25265-02, 19 januari 2026)  
+Profielinformatie projectmedewerkers verzameld  
 Referentiemateriaal gedeeld: illustratiereeks Amsterdam Z-route + stripverhalen Zaanstad
 
 **Openstaande acties:**  
-- Herziene offerte GNM 25268 opstellen (drie opties: scope aanpassen, budget aanpassen, gefaseerd)
-- Input Jolijn verwerken in GNM 25267 offerte
-- Proof of concept ontwikkelen (deadline: eind januari / begin februari 2026)
-- Doelgroepkenmerken verder uitwerken voor beide projecten
-- Testmethode buddy-to-buddy traject nader onderzoeken
+- Eerste werksessie voorbereiden (30 maart 2026): concept presenteren, characters schetsen, kennismaken met Martine Boot
+- Planning bijstellen: offerte is later goedgekeurd dan gepland; oorspronkelijke week 6-7 activiteiten schuiven door naar week 14
+- Definitieve teksten MULTOmap ophalen bij opdrachtgever (zijn nog in ontwikkeling)
+- Afstemmen met Jolijn Ceelen over haar rol en inbreng vanaf week 14
 
 ---
 
@@ -75,13 +75,15 @@ Referentiemateriaal gedeeld: illustratiereeks Amsterdam Z-route + stripverhalen 
 - Renske heeft een bestuurskundige achtergrond, geen sociologische of juridische — dit kleurt hoe ze naar beleid kijkt.
 - Angelique heeft naast haar gemeentefunctie een coachingspraktijk (StiefPlus) — breed menselijk perspectief.
 - Judith beschrijft zichzelf als iemand die beleidslijnen vertaalt naar operationele doelen — communiceer concreet en uitvoerbaar.
+- Martine Boot is nieuw op dit project. De eerste werksessie is ook een kennismakingsmoment — geef daar ruimte voor.
+- De MULTOmap-teksten zijn nog in ontwikkeling. De huidige versie is inhoudelijk ongelijk van afwerking — nog geen definitieve brontekst.
 
 **Risico's en blinde vlekken:**  
 - Scope GNM 25268 groter dan geraamd (€2.500 oorspronkelijk, realistisch €3.500–€4.000)
 - Meerdere diverse karakters = meer illustratietijd dan één consistent personage
 - Meertaligheid is bewust buiten scope gehouden — bewaken
 - Validatie met eindgebruikers wordt door opdrachtgevers vaak onderschat
-- Jasper Vorweg (rol onduidelijk) was afwezig — wie is dit en wat is zijn rol?
+- Lange aanlooptijd (offerte goedgekeurd pas in maart) — planning onder druk, oplevering juni 2026 staat nog steeds
 
 ---
 
@@ -97,11 +99,12 @@ Communiceer vanuit de ik-beleving van de inburgeraar, niet vanuit het systeem. B
 - Informatiehiërarchie A1/A2 (visueel) → B1 (korte tekst) → B2/C1 (verdieping)
 
 **Persona's GNM 25267:**  
-"Ali" — Afghaanse man, alleenstaand, 18–35 jaar, B1/Z-route  
-"Miriam" — Somalische vrouw, hoger opgeleid, 28 jaar, B1-route
+Twee personages, man en vrouw — nog te ontwerpen door illustrator (Claudia, nader te bevestigen). Stijl: herkenbare verhalende 2D, modulair opgebouwd, Welcome to Nijmegen-uitstraling, bewust niet in gemeente-huisstijl.
 
-**GNM 25267 — Centrale metafoor:**  
-Fysieke verzamelmap als "groeiboekje" — inburgeraars houden deze gedurende het hele traject bij zich. Illustraties modelleren gewenst gedrag: mensen die de map gebruiken tijdens gesprekken.
+**Drie routes — drie manieren van gebruik:**  
+Z-route: professional bladert mee, test begrip stap voor stap  
+B-route: inburgeraar leest zelfstandig, bereidt zich voor op gesprek  
+C-route: volledig overzicht in één oogopslag voor hoger opgeleiden
 
 **GNM 25268 — Twee instrumenten:**  
 1. Gespreksinstrument voor professionals (eenheid in aanpak)  
@@ -142,3 +145,4 @@ Gemeente Nijmegen (communicatieprofessionals, beleidsadviseurs, kwaliteitsmedewe
 | Versie | Datum | Wijziging |
 |--------|-------|-----------|
 | v0.1 | 24 maart 2026 | Initiële opzet op basis van gespreksverslag, overdrachtsbestanden en kennisoverdracht Amsterdam |
+| v0.2 | 24 maart 2026 | Martine Boot vervangt Hannah van Amstel als primair contact; Jasper Varwijk toegevoegd met correcte naam en rol; planning bijgesteld op basis van late goedkeuring offerte; MULTOmap-status toegevoegd; verwijzing naar 05_profiel_projectmedewerkers.md |
