@@ -57,6 +57,17 @@ Relevantie: Samenwerkingspartner Studio Claro. Conceptkeuzes liggen bij Studio C
 
 ---
 
+## Studio Claro
+
+**Claudia Dominguez**  
+Functie: Illustrator en beelddenker  
+Rol in project: Ontwikkelt karakterschetsen en illustraties voor GNM 25267  
+Achtergrond: Studeerde architectuur in Mexicali en mode- en kostuumontwerp in Guadalajara. Werkt met tablet, papier, potlood, naald en draad. Gespecialiseerd in beelden die in één oogopslag begrijpelijk zijn.  
+Relevantie: Verantwoordelijk voor de visuele vertaling van de personages en de illustraties voor de MULTOmap. Haar werk vormt de basis voor wat Jolijn later opmaakt — de volgorde is: Claudia schetst, Jolijn werkt af.  
+Contact: claudia@studioclaro.nl | +31 6 5530 6828
+
+---
+
 ## Revisiehistorie
 
 | Versie | Datum | Wijziging |
